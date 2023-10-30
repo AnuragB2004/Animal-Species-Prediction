@@ -52,3 +52,7 @@ Feel free to contribute to this project by creating pull requests or raising iss
 ```
 
 Make sure to customize the placeholders with relevant information specific to your project.
+
+
+https://github.com/AnuragB2004/Animal-Species-Prediction/assets/105806479/f2837f8f-dd8f-4fb2-8430-e8af9b00e0f1
+
