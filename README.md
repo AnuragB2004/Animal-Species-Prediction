@@ -46,11 +46,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - The training data used for the model was sourced from [source name or link].
 - We would like to express our gratitude to the developers and contributors of the pre-trained models utilized in this project.
 
-## Contributors
-
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
-- [Contributor 3](https://github.com/contributor3)
 
 Feel free to contribute to this project by creating pull requests or raising issues. For any questions or concerns, please contact [your email address].
 
